@@ -26,5 +26,3 @@ ent-ClothingHeadHelmetHardsuitPirateCapSun = pirate captain's hardsuit helmet
 ent-ClothingHeadHelmetHardsuitPirateSun = pirate hardsuit helmet
     .desc = A special hardsuit helmet, made for Scooner.
     .suffix = Pirate, Sunrise
-ent-ClothingHeadHelmetHardsuitSeniorOfficer = instructor's hardsuit helmet
-    .desc = Armored hardsuit helmet for security needs.
