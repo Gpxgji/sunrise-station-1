@@ -81,3 +81,18 @@
         - id: JetpackMiniFilled
           prob: 0.6
         - id: ClothingShoesBootsMagPirate
+
+#senior officer hardsuit
+- type: entity
+  id: SuitStorageSeniorOfficerSunrise
+  parent: SuitStorageBase
+  suffix: Security, Sunrise
+  components:
+  - type: StorageFill
+    contents:
+        - id: OxygenTankFilled
+        - id: ClothingOuterHardsuitSeniorOfficer
+        - id: ClothingMaskBreath
+        - id: ClothingShoesBootsMagSec
+  - type: AccessReader
+    access: [["Security"]]

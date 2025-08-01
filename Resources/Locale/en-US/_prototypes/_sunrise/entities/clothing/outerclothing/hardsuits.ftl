@@ -35,3 +35,5 @@ ent-ClothingOuterHardsuitPirateCapSun = pirate captain's hardsuit
     .suffix = Pirate, Sunrise
 ent-ClothingOuterHardsuitChameleon = syndicate chameleon
     .desc = Looking at his material, Sci-fi images inadvertently pop up in your head.
+ent-ClothingOuterHardsuitSeniorOfficer = instructor's hardsuit
+    .desc = A special suit that protects against hazardous, low pressure environments. Has an additional layer of armor.

@@ -13,3 +13,6 @@ ent-SuitStoragePirateSun = { ent-SuitStorageBase }
 ent-SuitStoragePirateCapSun = { ent-SuitStorageBase }
     .suffix = Pirate Captain, Sunrise
     .desc = { ent-SuitStorageBase.desc }
+ent-SuitStorageSeniorOfficerSunrise = { ent-SuitStorageBase }
+    .suffix = Security, Sunrise
+    .desc = { ent-SuitStorageBase.desc }
