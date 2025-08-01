@@ -86,7 +86,7 @@
 - type: entity
   id: SuitStorageSeniorOfficerSunrise
   parent: SuitStorageBase
-  suffix: Security, Sunrise
+  suffix: Senior officer, Sunrise
   components:
   - type: StorageFill
     contents:
