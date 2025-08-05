@@ -499,7 +499,7 @@
     - WhitelistChameleon
   # SUNRISE EDIT
 
-#белая свадебная фата SUNRISE
+#чёрная свадебная фата SUNRISE
 - type: entity
   parent: [ClothingHeadBase, BaseFoldable]
   id: ClothingHeadBlackVeil
@@ -522,7 +522,7 @@
     foldedEquippedPrefix: up
     foldedHeldPrefix: up
 
-#чёрная свадебная фата SUNRISE
+#белая свадебная фата SUNRISE
 - type: entity
   parent: [ClothingHeadBase, BaseFoldable]
   id: ClothingHeadWhiteVeil
